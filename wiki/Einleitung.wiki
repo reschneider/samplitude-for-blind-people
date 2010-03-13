@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Einleitung =
+
+Professionelle Audiobearbeitung für blinde Menschen ist kein Wunschtraum. Es gibt viele Projekte, die in diesem Bereich Fortschritte machen. Aus meiner Arbeit ist auch eine Anpassung von Samplitude entstanden. 
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
