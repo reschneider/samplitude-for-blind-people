@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = Einleitung =
 
 Professionelle Audiobearbeitung für blinde Menschen ist kein Wunschtraum. Es gibt viele Projekte, die in diesem Bereich Fortschritte machen. Aus meiner Arbeit ist auch eine Anpassung von Samplitude entstanden. 
