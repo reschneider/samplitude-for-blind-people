@@ -19,7 +19,9 @@ Es ist aber noch nicht markiert.
 
 Man sollte daran denken, dieses Objekt zu markieren, da  man sonst nicht schneiden kann. 
 
-Wichtig ist auch, immer zu kontrollieren, ob man in der richtigen Spur ist, sonst kann man auch nicht schneiden. Am Bildschirm werden die Objekte durch Rechtecke in der Hüllkurve dargestellt. Die nützen uns aber wenig. Jedes Objekt hat Objektkanten, die sind für uns wichtig. Wenn mehrere Spuren sind, und sich die Objekte überlappen, wird jede Objektkante der Objekete auf jeder Spur angesprungen.
+Wichtig ist auch, immer zu kontrollieren, ob man in der richtigen Spur ist, sonst kann man auch nicht schneiden. Am Bildschirm werden die Objekte durch Rechtecke in der Hüllkurve dargestellt.
+Die nützen uns aber wenig. Jedes Objekt hat Objektkanten, die sind für uns wichtig. 
+Wenn mehrere Spuren sind, und sich die Objekte überlappen, wird jede Objektkante der Objekete auf jeder Spur angesprungen.
 
 < = Vorheriges Objekt markieren
 
