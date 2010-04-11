@@ -1,17 +1,23 @@
 =Workflow 'Wave-Datei editieren'=
 ____
 Sich überlegen, wo die Audiodateien abgelegt werden sollen. Ausgangsordner anlegen.
+
 Menü Datei, Neues Projekt oder Ctrl+N
+
 Mit Tab zu Vorlage und Vorlage auswählen, 
 Pfad zu dem Ordner mit dem Audiomaterial auswählen, Ev. Häkchen 'neues Projektunterverzeichnis ein oder ausschalten'. Enter drücken
+
 Mit alt+Cursor ab und auf kontrollieren, ob Jaws spricht. 
 1 Spur wählen
+
 W drücken, um eine Wavedatei zu laden. Vielleicht muss man sie zuerst suchen. Es gibt eine Ausklappliste, die Verzeichnisse heisst. Wenn man den oberste Eintrag wählt, wird der aktuelle Projektordner gewählt.
 
+{{{
 Objekt
 Die in die Spur geladene Audiodatei ist das erste Objekt. Es ist aber noch nicht markiert. Man sollte daran denken, dieses Objekt zu markieren, da  man sonst nicht schneiden kann. Wichtig ist auch, immer zu kontrollieren, ob man in der richtigen Spur ist, sonst kann man auch nicht schneiden. Am Bildschirm werden die Objekte durch Rechtecke in der Hüllkurve dargestellt. Die nützen uns aber wenig. Jedes Objekt hat Objektkanten, die sind für uns wichtig. Wenn mehrere Spuren sind, und sich die Objekte überlappen, wird jede Objektkante der Objekete auf jeder Spur angesprungen.
 < = Vorheriges Objekt markieren
 > = Nächstes Objekt markieren
+}}}
 
 Leertaste = abspielen ab Position des Playcursor
 F12 Stopp an der Position des Playcursor
