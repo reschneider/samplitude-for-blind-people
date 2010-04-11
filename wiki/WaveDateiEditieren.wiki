@@ -1,5 +1,5 @@
- Workflow 'Wave-Datei editieren' 
-
+=Workflow 'Wave-Datei editieren'=
+____
 Sich überlegen, wo die Audiodateien abgelegt werden sollen. Ausgangsordner anlegen.
 Menü Datei, Neues Projekt oder Ctrl+N
 Mit Tab zu Vorlage und Vorlage auswählen, 
