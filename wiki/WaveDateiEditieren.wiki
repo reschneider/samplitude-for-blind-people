@@ -1,0 +1,70 @@
+ Workflow 'Wave-Datei editieren' 
+
+Sich überlegen, wo die Audiodateien abgelegt werden sollen. Ausgangsordner anlegen.
+Menü Datei, Neues Projekt oder Ctrl+N
+Mit Tab zu Vorlage und Vorlage auswählen, 
+Pfad zu dem Ordner mit dem Audiomaterial auswählen, Ev. Häkchen 'neues Projektunterverzeichnis ein oder ausschalten'. Enter drücken
+Mit alt+Cursor ab und auf kontrollieren, ob Jaws spricht. 
+1 Spur wählen
+W drücken, um eine Wavedatei zu laden. Vielleicht muss man sie zuerst suchen. Es gibt eine Ausklappliste, die Verzeichnisse heisst. Wenn man den oberste Eintrag wählt, wird der aktuelle Projektordner gewählt.
+
+Objekt
+Die in die Spur geladene Audiodatei ist das erste Objekt. Es ist aber noch nicht markiert. Man sollte daran denken, dieses Objekt zu markieren, da  man sonst nicht schneiden kann. Wichtig ist auch, immer zu kontrollieren, ob man in der richtigen Spur ist, sonst kann man auch nicht schneiden. Am Bildschirm werden die Objekte durch Rechtecke in der Hüllkurve dargestellt. Die nützen uns aber wenig. Jedes Objekt hat Objektkanten, die sind für uns wichtig. Wenn mehrere Spuren sind, und sich die Objekte überlappen, wird jede Objektkante der Objekete auf jeder Spur angesprungen.
+< = Vorheriges Objekt markieren
+> = Nächstes Objekt markieren
+
+Leertaste = abspielen ab Position des Playcursor
+F12 Stopp an der Position des Playcursor
+T  Trennen des Objekts  an der Stelle des Playcursors
+Playcursor
+Der Playcursor wird als vertikaler Strich über die Hüllkurve bewegt. Er wird mit der Leertaste gestartet. Wenn man wieder Leertaste drückt, geht er an seine letzte Position zurück. Mit F12 kann man ihn an der aktuellen Position anhalten.
+Markieren der Objekte unter dem Playcursor. Hat man mehrere Spuren, so muss man daran denken, dass durch F10 alle Objekte unter dem Playcursorstrich markiert werden.
+
+Wenn man trennt, steht der Playcursor an der Objektkante des folgenden Objekts.  Will man nun das vorhergehende Objekt löschen, muss man sich zu diesem Objekt bewegen mit < oder Ctrl+Shift+Q.
+Löschen kann man mit Ctrl+Delete (Löschen mit Nachziehen)
+Oft   muss man mit Ctrl+q zur vorherigen Objektkante
+Schritt rückgängig machen (Ctrl+z)
+Mit Ctrl+Z kann man einen Schnitt rückgängig machen. Der Schnitt wird wieder aufgehoben. Die Kontrolle über dieses zurückgehen ist nicht so einfach. Am besten versucht man sich mit Ctrl+Q zur vorhergehenden Objektkante bewegen. Wenn man immer noch am gleichen Ort steht, ist der Schnitt vermutlich noch vorhanden.
+Autocrossfade
+Wenn man den Playcursor mit den Tasten für die Objektkanten bewegt und immer wieder anspielt, merkt man, dass es unmittelbar nacheinander 2  Objektkanten gibt. Samplitude erstellt beim Schnitt einen Crossfade, den Autocrossfade. Mit der Braillezeile sieht man das deutlich, weil die Positionsanzeige nur einen kleinen Sprung macht an der Objektkante.
+
+Hören bis zum Schnitt/Playcursor, Hören vom Schnitt/Playcursor weg
+Mit den Tasten F5 und F6 kann man bis zum Schnitt resp. dem Playcursor hören. Dadurch kann die Stelle des Schnitts gut positioniert werden.
+Erstellen einer einzigen Wave-Datei aus den verschiedenen Stücken
+Man kann aus dem geschnittenen Track wieder einen einzigen  machen. Damit kann man Zwischenprodukte erstellen zur Sicherheit oder als Endprodukt. Wenn man bei der Arbeit weitermacht kann man das Projekt speichern, das lohnt sich definitiv zwischendurch mit Ctrl + s.
+Wenn man nur mit einer Spur arbeitet, dann kann man folgendes drücken
+In die Spur gehen
+Ctrl+A für alle Objekte markieren wählen.
+Ctrl+Shift+M drücken, um einen Bereich über alle Objekte zu erstellen
+Dann ins Menü gehen mit Alt, dann zu Werkzeuge, dann hinunter zu Bereichs-Trackbouncing.
+Man muss einen Dateinamen eingeben für die Wave-Datei , dann wird ein einziges Stück in der Spur erstellen. Wenn man in diesem Moment die Schnitte wieder haben will, kann man Ctrl+z drücken. 
+Mit Samplitude Classic aufwärts kann man MP3 direkt erstellen. Mit Samplitude SE muss man einen Encoder beschaffen und damit wieder MP3 erzeugen.
+
+Zoomlevel
+Auf 
+Austauschen von Daten innerhalb eines Projekts
+Amber Audio Converter
+Bereiche und Marker
+Bereiche sind nicht gerade einfach in den Griff zu bekommen und sie können seltsame Nebeneffekte haben. Man kann sie aber nicht ganz vermeiden, wie wir gerade gesehen haben.
+Shift+1-4 = Marker 1 - 4 setzen
+1-4 = zu den Markern springen
+Alt+Q = zum vorhergehenden Marker springen
+Alt+w = zum folgenden Marker springen
+Shift+F2 = Bereichsanfang zum linken Marker
+Shift+F3 = Bereichsanfang zum rechten Marker
+
+Marker können nützlich sein. Mank kann mit Shift+1-4 4 Marker setzen und sie dann mit den Zahltasten anspringen. Wenn man einen Beitrag abhört, kann man mit dem Dollarzeichen fortlaufende Marker setzen. Mit Alt+q und Alt+w kann man den Markern nachspringen. Mit Ctrl+Alt+Shift+q kann man alle Marker löschen.
+Trackbouncing (im Menü 'Werkzeuge')
+Im Gegensatz zum Bereichsbouncing, das bei mehreren Spuren meistens das Audiomaterial auf allen Spuren betrifft, kann man mit dem Trackboucing bestimmen, was gebounced werdensoll. Am Besten macht man sich im entsprechenden Dialog Presets, die das beinhalten was man will
+ 
+Hier kann man sowohl das Wave-Format, die Quelle (zum Beispiel nur markierter Bereich) wählen, wie auch bestimmen, was erzeugt werden soll, Ersetzen der Objekte im aktuellen VIP. Usw.
+Es ist wahrscheinlich dem Bereichstrackbouncing vorzuziehen, sobald man Audiomaterial in mehreren Spuren hat.
+(Noch weiter auszubauen)
+
+Arbeiten mit dem Objekt-Editor
+Der Objekt-Editor erlaubt es, FadeIn und FadeOut für ein Objekt zu erstellen.  Dazu selektiert man ein Objekt und ruft dann mit Ctrl+O den Objekteditor auf. Nun muss man sich beim ersten Mal bis zum Controlschalter Max durcharbeiten und diesen aktivieren (ist er überhaupt erreichbar?). Diese Einstellung bleibt erhalten.
+Die Tabulatorreihenfolge in diesem Dialog ist ziemlich chaotisch, deshalb habe ich ein Jaws-Script gemacht, das schneller auf die einzelnen Bedienelemente zugreifen lässt. Dieses Script kann mit Ctrl+Alt+x aktiviert werden. Danach kann man mit dem Cursor die einzelnen Punkte auswählen.
+Einige Tasten im Objekteditor
+Alt+P = Play
+Alt+o = Ok und Ende
+Alt+a = Abbruch oder Esc
