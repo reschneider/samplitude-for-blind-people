@@ -31,8 +31,13 @@ Wenn mehrere Spuren sind, und sich die Objekte überlappen, wird jede Objektkant
 Leertaste = abspielen ab Position des Playcursor
 F12 Stopp an der Position des Playcursor
 T  Trennen des Objekts  an der Stelle des Playcursors
+
+{{{
 Playcursor
-Der Playcursor wird als vertikaler Strich über die Hüllkurve bewegt. Er wird mit der Leertaste gestartet. Wenn man wieder Leertaste drückt, geht er an seine letzte Position zurück. Mit F12 kann man ihn an der aktuellen Position anhalten.
+Der Playcursor wird als vertikaler Strich über die Hüllkurve bewegt. Er wird mit der Leertaste gestartet. Wenn man wieder Leertaste drückt, geht er an seine letzte Position zurück. 
+Mit F12 kann man ihn an der aktuellen Position anhalten.
+}}}
+
 Markieren der Objekte unter dem Playcursor. Hat man mehrere Spuren, so muss man daran denken, dass durch F10 alle Objekte unter dem Playcursorstrich markiert werden.
 
 Wenn man trennt, steht der Playcursor an der Objektkante des folgenden Objekts.  Will man nun das vorhergehende Objekt löschen, muss man sich zu diesem Objekt bewegen mit < oder Ctrl+Shift+Q.
