@@ -61,21 +61,31 @@ Hören bis zum Schnitt/Playcursor, Hören vom Schnitt/Playcursor weg
 Mit den Tasten F5 und F6 kann man bis zum Schnitt resp. dem Playcursor hören. Dadurch kann die Stelle des Schnitts gut positioniert werden.
 
 Erstellen einer einzigen Wave-Datei aus den verschiedenen Stücken
-Man kann aus dem geschnittenen Track wieder einen einzigen  machen. Damit kann man Zwischenprodukte erstellen zur Sicherheit oder als Endprodukt. Wenn man bei der Arbeit weitermacht kann man das Projekt speichern, das lohnt sich definitiv zwischendurch mit Ctrl + s.
+
+Man kann aus dem geschnittenen Track wieder einen einzigen  machen. Damit kann man Zwischenprodukte erstellen zur Sicherheit oder als Endprodukt. 
+Wenn man bei der Arbeit weitermacht kann man das Projekt speichern, das lohnt sich definitiv zwischendurch mit Ctrl + s.
+
 Wenn man nur mit einer Spur arbeitet, dann kann man folgendes drücken
 In die Spur gehen
+
 Ctrl+A für alle Objekte markieren wählen.
+
 Ctrl+Shift+M drücken, um einen Bereich über alle Objekte zu erstellen
+
 Dann ins Menü gehen mit Alt, dann zu Werkzeuge, dann hinunter zu Bereichs-Trackbouncing.
 Man muss einen Dateinamen eingeben für die Wave-Datei , dann wird ein einziges Stück in der Spur erstellen. Wenn man in diesem Moment die Schnitte wieder haben will, kann man Ctrl+z drücken. 
+
 Mit Samplitude Classic aufwärts kann man MP3 direkt erstellen. Mit Samplitude SE muss man einen Encoder beschaffen und damit wieder MP3 erzeugen.
 
 Zoomlevel
 Auf 
 Austauschen von Daten innerhalb eines Projekts
 Amber Audio Converter
+
 Bereiche und Marker
-Bereiche sind nicht gerade einfach in den Griff zu bekommen und sie können seltsame Nebeneffekte haben. Man kann sie aber nicht ganz vermeiden, wie wir gerade gesehen haben.
+Bereiche sind nicht gerade einfach in den Griff zu bekommen und sie können seltsame Nebeneffekte haben. 
+
+Man kann sie aber nicht ganz vermeiden, wie wir gerade gesehen haben.
 Shift+1-4 = Marker 1 - 4 setzen
 1-4 = zu den Markern springen
 Alt+Q = zum vorhergehenden Marker springen
