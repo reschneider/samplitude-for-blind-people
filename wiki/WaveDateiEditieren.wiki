@@ -33,12 +33,12 @@ F12 Stopp an der Position des Playcursor
 T  Trennen des Objekts  an der Stelle des Playcursors
 
 {{{
-Playcursor
+== Playcursor ==
 Der Playcursor wird als vertikaler Strich über die Hüllkurve bewegt. Er wird mit der Leertaste gestartet. Wenn man wieder Leertaste drückt, geht er an seine letzte Position zurück. 
 Mit F12 kann man ihn an der aktuellen Position anhalten.
 }}}
 
-Markieren der Objekte unter dem Playcursor. 
+== Markieren der Objekte unter dem Playcursor. == 
 Hat man mehrere Spuren, so muss man daran denken, dass durch F10 alle Objekte unter dem Playcursorstrich markiert werden.
 
 Wenn man trennt, steht der Playcursor an der Objektkante des folgenden Objekts.  
@@ -84,7 +84,7 @@ Auf
 Austauschen von Daten innerhalb eines Projekts
 Amber Audio Converter
 
-Bereiche und Marker
+== Bereiche und Marker ==
 Bereiche sind nicht gerade einfach in den Griff zu bekommen und sie können seltsame Nebeneffekte haben. 
 
 Man kann sie aber nicht ganz vermeiden, wie wir gerade gesehen haben.
@@ -97,9 +97,8 @@ Shift+F3 = Bereichsanfang zum rechten Marker
 
 Marker können nützlich sein. Mank kann mit Shift+1-4 4 Marker setzen und sie dann mit den Zahltasten anspringen. Wenn man einen Beitrag abhört, kann man mit dem Dollarzeichen fortlaufende Marker setzen. Mit Alt+q und Alt+w kann man den Markern nachspringen. Mit Ctrl+Alt+Shift+q kann man alle Marker löschen.
 Trackbouncing (im Menü 'Werkzeuge')
-Im Gegensatz zum Bereichsbouncing, das bei mehreren Spuren meistens das Audiomaterial auf allen Spuren betrifft, kann man mit dem Trackboucing bestimmen, was gebounced werdensoll. Am Besten macht man sich im entsprechenden Dialog Presets, die das beinhalten was man will
- 
-Hier kann man sowohl das Wave-Format, die Quelle (zum Beispiel nur markierter Bereich) wählen, wie auch bestimmen, was erzeugt werden soll, Ersetzen der Objekte im aktuellen VIP. Usw.
+
+Im Gegensatz zum Bereichsbouncing, das bei mehreren Spuren meistens das Audiomaterial auf allen Spuren betrifft, kann man mit dem Trackboucing bestimmen, was gebounced werden soll. Am Besten macht man sich im entsprechenden Dialog Presets, die das beinhalten, was man will. Hier kann man sowohl das Wave-Format, die Quelle (zum Beispiel nur markierter Bereich) wählen, wie auch bestimmen, was erzeugt werden soll, Ersetzen der Objekte im aktuellen VIP. Usw.
 Es ist wahrscheinlich dem Bereichstrackbouncing vorzuziehen, sobald man Audiomaterial in mehreren Spuren hat.
 (Noch weiter auszubauen)
 
