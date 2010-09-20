@@ -48,7 +48,7 @@ Löschen kann man mit Ctrl+Delete (Löschen mit Nachziehen)
 
 Oft   muss man mit Ctrl+q zur vorherigen Objektkante
 
-Schritt rückgängig machen (Ctrl+z)
+== Schritt rückgängig machen (Ctrl+z)==
 Mit Ctrl+Z kann man einen Schnitt rückgängig machen. Der Schnitt wird wieder aufgehoben. Die Kontrolle über dieses zurückgehen ist nicht so einfach. Am besten versucht man sich mit Ctrl+Q zur vorhergehenden Objektkante bewegen. 
 Wenn man immer noch am gleichen Ort steht, ist der Schnitt vermutlich noch vorhanden.
 
@@ -57,15 +57,16 @@ Autocrossfade
 Wenn man den Playcursor mit den Tasten für die Objektkanten bewegt und immer wieder anspielt, merkt man, dass es unmittelbar nacheinander 2  Objektkanten gibt. Samplitude erstellt beim Schnitt einen Crossfade, den Autocrossfade. Mit der Braillezeile sieht man das deutlich, weil die Positionsanzeige nur einen kleinen Sprung macht an der Objektkante.
 }}}
 
-Hören bis zum Schnitt/Playcursor, Hören vom Schnitt/Playcursor weg
+== Hören bis zum Schnitt/Playcursor, Hören vom Schnitt/Playcursor weg ==
 Mit den Tasten F5 und F6 kann man bis zum Schnitt resp. dem Playcursor hören. Dadurch kann die Stelle des Schnitts gut positioniert werden.
 
-Erstellen einer einzigen Wave-Datei aus den verschiedenen Stücken
+== Erstellen einer einzigen Wave-Datei aus den verschiedenen Stücken ==
 
 Man kann aus dem geschnittenen Track wieder einen einzigen  machen. Damit kann man Zwischenprodukte erstellen zur Sicherheit oder als Endprodukt. 
 Wenn man bei der Arbeit weitermacht kann man das Projekt speichern, das lohnt sich definitiv zwischendurch mit Ctrl + s.
 
 Wenn man nur mit einer Spur arbeitet, dann kann man folgendes drücken
+
 In die Spur gehen
 
 Ctrl+A für alle Objekte markieren wählen.
@@ -73,6 +74,7 @@ Ctrl+A für alle Objekte markieren wählen.
 Ctrl+Shift+M drücken, um einen Bereich über alle Objekte zu erstellen
 
 Dann ins Menü gehen mit Alt, dann zu Werkzeuge, dann hinunter zu Bereichs-Trackbouncing.
+
 Man muss einen Dateinamen eingeben für die Wave-Datei , dann wird ein einziges Stück in der Spur erstellen. Wenn man in diesem Moment die Schnitte wieder haben will, kann man Ctrl+z drücken. 
 
 Mit Samplitude Classic aufwärts kann man MP3 direkt erstellen. Mit Samplitude SE muss man einen Encoder beschaffen und damit wieder MP3 erzeugen.
