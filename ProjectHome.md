@@ -1,0 +1,2 @@
+Professionelle Audiobearbeitung für blinde Menschen ist kein Wunschtraum. Es gibt viele Projekte, die in diesem Bereich Fortschritte machen. Aus meiner Arbeit ist auch eine Anpassung von Samplitude entstanden. Das Hilfsmittel heisst Jaws for Windows. Wichtiger als diese Anpassungen sind aber der Workflow, wie etwas bearbeitet wird.
+Es sollen verschiedene Workflows entstehen, die hoffentlich irgendwann ausserhalb dieser Webseite erscheinen und benutzt werden können.

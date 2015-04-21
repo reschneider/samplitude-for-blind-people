@@ -1,0 +1,11 @@
+# Einleitung #
+
+Professionelle Audiobearbeitung für blinde Menschen ist kein Wunschtraum. Es gibt viele Projekte, die in diesem Bereich Fortschritte machen. Aus meiner Arbeit ist auch eine Anpassung von Samplitude von der Firma Magix entstanden.
+
+Diese Webseite soll vor allem dazu dienen, die laufende Arbeit zu kommentieren und Anregungen zu bekommen, wie es weiter gehen soll.
+
+Der Leser soll nicht staunen, wenn es nur langsam vorwärts geht. Zeit ist leider nicht immer genügend vorhanden. Ich werde mich bemühen, in der nächsten Zeit die bestehenden Infos für diese Webseite aufzubereiten.
+
+Der Text wird halt in der Wiki-Syntax geschrieben sein, aber ich denke, diese kann auch für blinde Personen als einfaches Markup nützlich sein.
+
+Ich werde den Text in Deutsch schreiben, da die Anpassungen im Moment nur in dieser Sprache nützlich sind.
